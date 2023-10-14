@@ -1,0 +1,1 @@
+Acest proiect este despre cum am invatat programare
